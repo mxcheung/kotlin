@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.inventory.InventoryReportTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-06-17T16:51:45.584Z" hostname="logical-raven-d0uh" time="0.101">
+  <properties/>
+  <testcase name="report handles null description without error()" classname="com.example.inventory.InventoryReportTest" time="0.051"/>
+  <testcase name="itemsInCategory returns only items in the given category()" classname="com.example.inventory.InventoryReportTest" time="0.001"/>
+  <testcase name="mostExpensive returns item with highest price()" classname="com.example.inventory.InventoryReportTest" time="0.001"/>
+  <testcase name="report contains inventory status()" classname="com.example.inventory.InventoryReportTest" time="0.0"/>
+  <testcase name="report contains most expensive item name()" classname="com.example.inventory.InventoryReportTest" time="0.001"/>
+  <testcase name="report contains all category names()" classname="com.example.inventory.InventoryReportTest" time="0.001"/>
+  <testcase name="mostExpensive returns null for empty inventory()" classname="com.example.inventory.InventoryReportTest" time="0.001"/>
+  <testcase name="report contains total items count()" classname="com.example.inventory.InventoryReportTest" time="0.001"/>
+  <testcase name="totalValue returns correct sum of price times quantity()" classname="com.example.inventory.InventoryReportTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

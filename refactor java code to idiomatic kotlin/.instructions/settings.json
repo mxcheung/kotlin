@@ -1,0 +1,18 @@
+{
+    "workspace": {
+        "view": "off",
+        "files": [
+            "application/src/main/kotlin/com/example/inventory/Item.kt",
+            "application/src/test/kotlin/com/example/inventory/InventoryReportTest.kt",
+            "application/src/main/kotlin/com/example/inventory/InventoryService.kt",
+            "application/src/main/kotlin/com/example/inventory/Main.kt"
+        ],
+        "terminals": [
+            {
+                "name": "Terminal",
+                "active": true,
+                "command": "export GRADLE_USER_HOME=\"/home/ps-user/gradle9.5\"\ncd application\nclear"
+            }
+        ]
+    }
+}
